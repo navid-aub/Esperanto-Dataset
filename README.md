@@ -1,4 +1,4 @@
-# ESPERANTO Dataset: A dataset for AI Text Detection
+# ESPERANTO: A Large Dataset for AI Text Detection
 
 ## Overview:
 The provided dataset is the dataset from our paper titled "[ESPERANTO: Evaluating Synthesized Phrases to Enhance Robustness in AI Detection for Text Origination](https://arxiv.org/abs/2409.14285)."

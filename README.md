@@ -66,5 +66,8 @@ If you find our dataset useful in your research, please consider citing our pape
 }
 ```
 
+## Acknowledgment:
+This dataset was collected using the resources provided by [Esperanto Technologies](https://www.esperanto.ai/).
+
 ## Contact:
 If you have any questions or need further assistance regarding this dataset, please feel free to contact us at nayoobi@cougarnet.uh.edu.

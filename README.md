@@ -24,6 +24,8 @@ $\textcolor{cyan}{Human\\; }$: Original human written text.
 
 $\textcolor{cyan}{AI\\; }$: AI generated text.
 
+$\textcolor{cyan}{LLM\\; }$: LLM used to generate AI text.
+
 $\textcolor{cyan}{PT\\; }$: Back-translated text of Human or AI column, and Portuguese as intermediate language.
 
 $\textcolor{cyan}{ES\\; }$: Back-translated text of Human or AI column, and Spanish as intermediate language.
